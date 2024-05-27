@@ -1,9 +1,9 @@
 # Simple-SERP-Scraping-Tool
 A simple Google SERP Scraping Tool using SERP API using node.js in Windows OS.
 
-## Quick start (Windows)
+## Quick Start (Windows)
 
-### Requirement
+### Requirements
 
 - node.js
 
@@ -17,7 +17,7 @@ install the serpapi and dotenv (in the directory) using powershell;
 npm install
 ```
 
-### Basic Configuration
+### Basic Configurations
 
 - In the `.env` file, change the key to your serpapi API KEY (you can find it in the [dashboard](https://serpapi.com/dashboard)).
 

@@ -19,7 +19,7 @@ npm install
 
 ### Basic Configuration
 
-- In the `.env` file, change it to your serpapi API KEY (you can find it in the [dashboard](https://serpapi.com/dashboard).
+- In the `.env` file, change the key to your serpapi API KEY (you can find it in the [dashboard](https://serpapi.com/dashboard)).
 
 - In the `script.js` file, change the `// Predefined query (static)` line to your desired search term.
 
